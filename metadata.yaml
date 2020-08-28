@@ -1,0 +1,24 @@
+# Comments are expressed with a # preceding the line of text
+# Be as explicit and contextual as possible
+title: OperationAIR - Assist In Respiration
+
+# Name of the actual github repository
+name: operation-air-ventilator
+
+# Name your repository after CombatCovid/
+nameWithOwner: CombatCovid/operation-air-ventilator
+
+# Description is shown in English for now to get a Minimum Viable Product
+# We are working from the start to facilitate different languages
+languages:
+  # Document in English
+  EN:
+    description: Version 1 and 2 of an Emergency ventilator design toolbox. Low cost and portable design 
+    # Example of description: A low cost ventilator based on off the shelves components available in the Netherlands
+    
+    # Replace the keywords here to whatever is relevant to your context
+    # If you are using a mask then some will probably change
+    keywords: [AIRone,Corona Virus,Covid-19,Covid-19 Ventilator,Open Source Ventilator,OperationAIR,
+               Pandemic Ventilator,SARS-COV-2,Technical Medicine,TU Delft, Ventilator Project]
+
+# end of app metadata
